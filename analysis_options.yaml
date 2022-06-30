@@ -2,7 +2,7 @@ include: package:blendthink_lints/recommended.yaml
 
 analyzer:
   errors: # https://dart.dev/tools/diagnostic-messages
-    demo: warning
+    demo: error
 
 linter:
   rules:
