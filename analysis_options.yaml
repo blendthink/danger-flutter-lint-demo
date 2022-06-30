@@ -3,3 +3,7 @@ include: package:blendthink_lints/recommended.yaml
 analyzer:
   errors: # https://dart.dev/tools/diagnostic-messages
     demo: warning
+
+linter:
+  rules:
+    - always_use_package_imports
