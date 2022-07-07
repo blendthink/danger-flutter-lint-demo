@@ -36,12 +36,11 @@ dependencies:
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
-
   blendthink_lints: ^0.0.4
   danger_core:
   danger_plugin_dart_analyze:
+  flutter_test:
+    sdk: flutter
 
 dependency_overrides:
   path: ^1.8.1
